@@ -117,6 +117,7 @@ rules:
   max-nested-callbacks          : 1
   max-params                    : 1
   max-statements                : 1
+  max-statements-per-line       : 1
   new-cap                       : 1
   new-parens                    : 1
   newline-after-var             : 1
